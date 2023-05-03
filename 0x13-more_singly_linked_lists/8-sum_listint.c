@@ -2,7 +2,7 @@
 
 /**
  * sum_listint - calculates the sum of all the data of a listint_t list
- * @head: first node in the linked list in the program 
+ * @head: first node in the linked list in the program
  *
  * Return: resulting sum gg
  */
